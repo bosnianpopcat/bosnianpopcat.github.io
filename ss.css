@@ -1,0 +1,46 @@
+body {
+    background-color: #383838;
+
+}
+
+a {
+    color: white;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 30px;
+  }
+  
+  h1 {
+    color: white;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 50px;
+  }
+  
+  h2 {
+    color: white;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 40px;
+  }
+  
+  p {
+    color: white;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 30px;
+  }
+  
+  label {
+    color: white;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 30px;
+  }
+  
+  .buttons {
+    background-color: #474747;
+    border: none;
+    border-radius: 24px;
+    color: #ffffff;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+  }
